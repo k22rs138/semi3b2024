@@ -1,0 +1,26 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	deleted:    db_inc.php
+#	deleted:    eps_decide.php
+#	deleted:    eps_decide_save.php
+#	deleted:    eps_grade.php
+#	deleted:    eps_home.php
+#	deleted:    eps_list.php
+#	deleted:    eps_noentry.php
+#	deleted:    eps_result.php
+#	deleted:    eps_save.php
+#	deleted:    eps_submit.php
+#	deleted:    eps_summary.php
+#	deleted:    pg_footer.php
+#	deleted:    pg_header.php
+#	deleted:    sys_check.php
+#	deleted:    sys_login.php
+#	deleted:    sys_logout.php
+#	deleted:    usr_delete.php
+#	deleted:    usr_detail.php
+#	deleted:    usr_list.php
+#
